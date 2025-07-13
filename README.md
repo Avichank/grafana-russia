@@ -1,4 +1,4 @@
-### Downloads
+### Установка Grafana 12.0.2 обходным путём
 
 Файл можно скачать напрямую через [Yandex.disk](https://disk.yandex.ru/d/b98pseZJb2yyqw).
 
